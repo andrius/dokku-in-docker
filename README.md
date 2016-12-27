@@ -1,4 +1,12 @@
-Dokku inside Docker.
+# Dokku inside Docker
+
+Original repository https://github.com/eugeneware/dokku-in-docker updated by Stefan Siegl: http://stesie.github.io/2015/11/dokku-on-docker.
+
+Docker hub version: https://hub.docker.com/r/andrius/dokku-in-docker or
+
+`docker pull andrius/dokku-in-docker:latest`
+
+# Use it
 
 Run with something like this:
 
